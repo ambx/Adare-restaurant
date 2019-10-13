@@ -10,9 +10,8 @@ html {
 
 body {
 	background-image: url("images/background-adare-restaurant.jpg");
-	height: 1285px;
-	width: 1920px;
-	background-size: cover;
+	height: 100%;
+	width: 100%;
 	background-repeat: no-repeat;
 	background-position: center;
 }
